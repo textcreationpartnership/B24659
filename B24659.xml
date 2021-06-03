@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the prevention of vexations and oppressions by arrests and of delays in suits of lavv.</title>
+            <title>Public General Acts. 1695. 7 Wil.III.c.25.</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24659</idno><idno type="EEBO-CITATION">99828230</idno>
+  <idno type="VID">207793</idno>
+  <idno type="EEBO-PROQUEST">2264212855</idno>
+  
+            <idno type="STC">Wing I322</idno>
+            <idno type="PROQUEST">99828230</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828230e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207793)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1949:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the prevention of vexations and oppressions by arrests and of delays in suits of lavv.</title>
+                  <title>Public General Acts. 1695. 7 Wil.III.c.25.</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Andrew Crook, printer to the Kings Most Excellent Majesty, on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Enacted: Public General Acts, 1695. 7 Wil.III.c.25.</note>
+                  <note>Running title reads: Anno regni septimo Gulielmi Tertii.</note>
+                  <note>Reproduction of the original in the National Library of Ireland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Law enforcement --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Arrest (Police methods) --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207793:1"/>
+            <pb facs="tcp:207793:1"/>
+            <p>AN ACT For the prevention of Vexations and Oppressions by Arrests; And of Delays in Suits of LAVV.</p>
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook,</hi> Printer to the Kings Most Excellent Majesty, on <hi>Ormonde-Key,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div n="25" type="chapter">
+            <pb facs="tcp:207793:2"/>
+            <pb n="3" facs="tcp:207793:2"/>
+            <head>CHAP. XXV. An Act for the prevention of Vexations and Op<g ref="char:EOLhyphen"/>pressions by Arrests; And of Delays in Suits of Law.</head>
+            <p>WHereas by the Laws of this King<g ref="char:EOLhyphen"/>dom, in Case where any Person is Sued, Impleaded or Arrested by any Writt, Bill or Process, Issu<g ref="char:EOLhyphen"/>ing out of any of his Majesties Courts of Re<g ref="char:EOLhyphen"/>cord, at <hi>Dublin,</hi> in any Common Plea, at the Suit of any Common Person, The True Cause of Action ought to be set forth and Expressed in such Writt, Bill or Process, whereby the De<g ref="char:EOLhyphen"/>fendant may have certain Knowledge of the Cause of the Suit; and the Officer who shall Execute such Writt, Bill or Process, may know how to take Security for the Appearance of the Defendant to the same, and the Sureties for such Appearance may rightly understand for what Cause they become Engaged.</p>
+            <p>And whereas there is a great Complaint of the People of this Kingdom, that for Divers Years last past, very many of His Majesties Good Subjects have beén Arrested upon General Writts of Trespass, <hi>Quare Clausum Fregit,</hi> or other like Writts Issued out of the Courts of <hi>Kings-Bench,</hi> and <hi>Common-Pleas,</hi> not Expressing any Particular or Certain Cause of Action; and thereupon kept Prisoners for a long time for want of Bail, Bonds, with Sureties for Ap<g ref="char:EOLhyphen"/>pearances, having beén Demanded in so great
+<pb n="4" facs="tcp:207793:3"/> Summs, that few or none have Dared to be Security for the Appearance of such Persons so Arrested and Imprisoned; altho in Truth there hath beén little or no Cause of Action, and of<g ref="char:EOLhyphen"/>tentimes there are no such Persons who are Named Plantiffs; but those Arrests have beén many times procured by Malicious Persons to Vex and Oppress the Defendants, and to force from them Vnreasonable and Vnjust Composi<g ref="char:EOLhyphen"/>tions for Obtaining their Liberty; and by such Evil Practices many Men have beén, and are Daily Vndone, and Destroyed in their Estates, without Possibility of having Reparation, the Actors Imployed in such Practices having beén (for the most part) Poor and Lurking Per<g ref="char:EOLhyphen"/>sons, and their Actings Secret, that it hath beén found very Difficult to make True Disco<g ref="char:EOLhyphen"/>veries on proof thereof.</p>
+            <p>For Remedy and prevention of which so great growing Evils and Mischiefs; And also for Discouraging all Frivolous and Vnjust Suits and Causeless Arrests for the Future.</p>
+            <p>Be it Enacted by the Kings Most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons in this present Parliament Assembled, and by Authority of the same, That from and after the Twelfth Day of <hi>December</hi> next, no Per<g ref="char:EOLhyphen"/>son or Persons who shall happen to be Arrested by any Sheriff, Vnder-Sheriff, Coroner, Stew<g ref="char:EOLhyphen"/>ard or Bayliff of any Franchize or Liberty, or by any other Officer, Minister, Vnder-Bayliff, or any other Person or Persons whatsoever within this Realm, having or pretending to have Authority or Warrant in that behalf, by force
+<pb n="5" facs="tcp:207793:3"/> or Colour of any Writt, Bill, or Process, Issu<g ref="char:EOLhyphen"/>ing, or to be Issuing out of His Majesties said Court of <hi>Kings-Bench</hi> and <hi>Common-Pleas,</hi> or ei<g ref="char:EOLhyphen"/>ther of them, or other Court of Iustice, in which said Writt, Bill, or Process, or at the Foot thereof, the Certainty or True Cause of Action is not Expressed, Marked, or Set Down par<g ref="char:EOLhyphen"/>ticularly; and for which the Defendant or De<g ref="char:EOLhyphen"/>fendants in such Writt, Bill, or Process Na<g ref="char:EOLhyphen"/>med is and are Bailable by the Statute in that behalf made in the Threé and Twentieth Year of the Reign of the Late King <hi>Henry</hi> the Sixth, shall be Forced or Compelled to give Security, or to Enter into Bond with Sureties for the Appearances of such Person or Persons so Ar<g ref="char:EOLhyphen"/>rested, at the day and place in the said Writs, Bill, or Process, on the Foot thereof Specified or Contained in any Penalty or Summ of Money exceéding the Summ of Forty Pounds of Law<g ref="char:EOLhyphen"/>ful Money of <hi>England,</hi> to be Conditioned for such Appearances. And that all Sheriffs and other Officers and Ministers aforesaid, shall let to Bail, and Deliver out of Prison, and from their and Every of their Custodies, Respectively, all and every person or persons whatsoever, by them, or any of them Arrested upon any such Writt, Bill, or Process wherein the Certainty and True Cause of Action is not particularly Expressed, as aforesaid, upon Security in the summ of Forty pounds, and no more, given for Appearance of such person or persons so Arrested, unto the said Sheriff or Officer aforesaid, accord<g ref="char:EOLhyphen"/>ing to the said Statute in the said Threé and Twentieth Year of the Reign of the said King <hi>Henry</hi> the Sixth, in that behalf made and Provided.</p>
+            <pb n="6" facs="tcp:207793:4"/>
+            <p>And be it further Enacted by the Authority aforesaid, That upon Appearance to be Entred in the Term wherein such Writt, Bill, or Pro<g ref="char:EOLhyphen"/>cess is Returnable with the Respective Officer in that behalf for the said person or persons, by Attorney or Attorneys in the said Respective Courts from whence the said Writt, Bill, or Process Issued unto such Writt, Bill, or Process, the Bond or Bonds so given for Appearance thereunto, be, and are hereby satisfied and Dis<g ref="char:EOLhyphen"/>charged; And that after such Appearance so Entred, no Amercement be Sett or Estreated upon, or against any Sheriff, or other Officer aforesaid; or any other person whatsoever, Con<g ref="char:EOLhyphen"/>cerning the want of such Appearance: And unless the Plantiff or Plantiffs in any such Writt, Bill, or Process Named, shall put into the Court from whence such Writt, Bill or Pro<g ref="char:EOLhyphen"/>cess did Issue, his or their Bill for De<g ref="char:EOLhyphen"/>claration against the person or persons so Ar<g ref="char:EOLhyphen"/>rested in some personal Action <hi>(Ejectione firme)</hi> of Lands and Tenements before the End of the Term next following for Appearance, that then a Nonsuite for want of a Declaration may be Entred against the said Plantiff or Plantiffs in the said Courts, Respectively: And that Every Defendant in every such Writt, Bill or Process Named, shall or may have Iudgment to Reco<g ref="char:EOLhyphen"/>ver Costs against Every such Plantiff or Plan<g ref="char:EOLhyphen"/>tiffs, to be Assessed, Taxed, and Levied in such manner, and according as it is provided by the Statute for Costs made in the Threé and Twen<g ref="char:EOLhyphen"/>tieth Year of the Reign of the Late King <hi>Henry</hi> the Eighth, any former or other Act, Statute, Ordnance, Law, Custom, Order, Course or Vse<g ref="char:EOLhyphen"/>age
+<pb n="7" facs="tcp:207793:4"/> of either of the said Courts to the Contrary thereof heretofore had, made, admitted, or used in any wise Notwithstanding.</p>
+            <p>Provided always that this Act, nor any Clause or Thing herein before Specified or Con<g ref="char:EOLhyphen"/>tained shall not Extend or be Construed or Ta<g ref="char:EOLhyphen"/>ken to Extend unto any Arrests hereafter to be made upon, or by Vertue of any Writt of <hi>Capias Utlagatum,</hi> Attachment upon Rescous, or Attachment upon any Contempt, or of any At<g ref="char:EOLhyphen"/>tachment of Priviledge, at the Suit of any Pri<g ref="char:EOLhyphen"/>viledged person, or of any other Attachment for Contempt whatsoever, Issuing, or to be Issuing out of Either of the said Courts, altho there be no particular Certainty of the Cause of Action Expressed or Contained in the said Writts, but that Nevertheless no Sheriff or Vnder-Sheriff, nor any of the Officers or Ministers aforesaid, shall Discharge any person or persons taken upon any Writt of <hi>Capias Utlagatum,</hi> out of Cu<g ref="char:EOLhyphen"/>stody without a Lawful <hi>Supersedeas</hi> first had and Received for the same, and that upon the said Writts of Attachment such Lawful Course be taken for Security for Appearance therein, as hath beén heretofore Vsed, any thing herein before Expressed to the Contrary thereof in any wise Notwithstanding.</p>
+            <p>And whereas many persons-out of ill Intent to Delay their Creditors from Recovering their Iust Debts continue Prisoners, who cannot be proceéded against in such manner as they might be if they were at Large. Now for the better Enabling all and Every person or persons to Recover their Iust Debts and Demands against such Prisoners.</p>
+            <pb n="8" facs="tcp:207793:5"/>
+            <p>Be it further Enacted by the Authority a<g ref="char:EOLhyphen"/>foresaid, That Every person or persons what<g ref="char:EOLhyphen"/>soever who now hath or have, or which at any time hereafter shall have Cause of any personal Action against any person, being a Prisoner in Prison, may Sue forth any Original Writt upon his or their Cause of Action: And that a Writt of <hi>Habeas Corpus</hi> be granted to Every such person or persons being Plantiff or Plan<g ref="char:EOLhyphen"/>tiffs, desiring the same to be Directed to the Goaler, or Keéper of the same Prison, to have the Body of such Prisoners before any His Ma<g ref="char:EOLhyphen"/>jesties Iustices of the <hi>Kings-Bench,</hi> or <hi>Common-Pleas</hi> at some certain Day in any Term, to Answer the said Plantiff or Plantiffs upon his or their said Cause of Action; And that if the said Plantiff or Plantiffs at the said Day put into the said Court his or their Declaration, according to the said Original Writt against the said Prisoner being present at the Bar, the said person shall be bound to appear in person, or to put in an Attorney to appear for him in the said Action, and unless the said Defendant plead upon a Rule given to be out at the Eight Days at the least, after such Appearance Iudgment by <hi>Nihil dicit</hi> may be Entred against such De<g ref="char:EOLhyphen"/>fendants as Appearing in person, which shall be Good and Effectual in Law: And such Charge in Court by Declarations signified by Rule unto the Goaler or Keéper shall be a Good Cause of Detension of such Prisoner in his Custody, from which he shall not be Discharged without a Law<g ref="char:EOLhyphen"/>ful <hi>Supersedeas,</hi> or Rule of Court: And if the said Goaler or Keéper shall do otherwise, he shall be Responsible to the Court, and to the Party
+<pb n="9" facs="tcp:207793:5"/> grieved for Damages, by Action upon the Case, to be brought against him for Discharging such Prisoner.</p>
+            <p>And whereas very many Suites Commenced by Original Writts have beén Protracted and long Delayed from Iudgment and Execution, by Reason of the Necessity of having Fifteén Days, at the least, betweén the Days of the <hi>Teste,</hi> and the Days of the Return of Writts now Vsed in personal Actions, and also in A<g ref="char:EOLhyphen"/>ctions of <hi>Ejectione firme,</hi> for Lands and Tene<g ref="char:EOLhyphen"/>ments. For Remedy whereof; and for the more Easy Expediting Tryals, and the better and more speédy Executing Iudgments for the time to come.</p>
+            <p>Be it further Enacted, by the Authority a<g ref="char:EOLhyphen"/>foresaid, That in all Actions of Debt, and all other personal Actions whatfoever; And also in Actions of <hi>Ejectione firme,</hi> for Lands or Tene<g ref="char:EOLhyphen"/>ments, now Depending, or which at any time hereafter shall be Depending in either of his Majesties Courts aforesaid, after any Issue therein Ioyned, to be Tryed by a Iury; and also after any Iudgment had or obtained, or to be had or ob<g ref="char:EOLhyphen"/>tained in any the Courts aforesaid, in any such Action, as aforesaid, there shall not neéd to be Fifteén Days betweén the <hi>Teste</hi> and Day of Re<g ref="char:EOLhyphen"/>turn of any Writt or Writts of <hi>Venire facias, Habeas Corpora Jurator.</hi> or <hi>Distringas Jurator.</hi> Writts of <hi>Fieri facias,</hi> or Writts of <hi>Capias ad Satisfaciendum,</hi> and that the want of Fiftéen Days betweén the Test Day, and the Day of the Return of any such Writt, shall not be, nor shall be Assigned, Taken, or Adjudged to be any Matter or Cause of Error; Any Law, Cu<g ref="char:EOLhyphen"/>stom,
+<pb n="10" facs="tcp:207793:6"/> Statute, Course or Vsage to the Contra<g ref="char:EOLhyphen"/>ry thereof, in any wise Notwithstanding.</p>
+            <p>Provided Nevertheless that this Act, nor any thing therein Contained shall not Extend, or be Construed to Extend to any Writt of <hi>Capias ad satisfaciend.</hi> whereon a Writt of Exigent after Iudgment is to be Awarded, nor to <hi>Capias ad satisfaciend.</hi> against the Defendant, in Order to make any Bail Lyable, but that the same Con<g ref="char:EOLhyphen"/>tinue and be as if this Act had never beén made.</p>
+            <p>And whereas by an Act of Parliament made in this Kingdom in the Tenth year of the Reign of our late Sovereign Lord King <hi>Charles</hi> the First, of Blessed Memory, a very good Law was made for avoiding Vnnecessary Delays of Exe<g ref="char:EOLhyphen"/>cution, whereby it is Enacted, That no Execu<g ref="char:EOLhyphen"/>tion shall be Stayed or Delayed upon or by any Writt of Error, or <hi>Supersedeas</hi> thereupon, to be Sued for the Reversing of any Iudgment to be given in any Action or Bill of Debt, upon any single Bond for Debt, or upon any Obli<g ref="char:EOLhyphen"/>gation, with Condition for payment of Money only, or upon any Action or Bill of Debt for Rent, or upon any Contract Sued in any of His Majesties Courts of Record at <hi>Dublin;</hi> un<g ref="char:EOLhyphen"/>less such person or persons in whose name or names such Writt of Error shall be brought with two sufficient Sureties, such as the Court wherein such Iudgment is or shall be given shall allow of, shall first before such Stay made or <hi>Supersedeas</hi> to be awarded, be bound to the party for whom any such Iudgment was or should be given by Recognizance to be acknow<g ref="char:EOLhyphen"/>ledged in the same Court, in double the Summ adjudged, to be recovered by the said former
+<pb n="11" facs="tcp:207793:6"/> Iudgment, to prosecute the said Writt of Er<g ref="char:EOLhyphen"/>ror with Effect, and also to satisfy and pay (if the said Iudgment shall be affirmed) all and singular the Debts, Damages and Costs ad<g ref="char:EOLhyphen"/>judged, or to be adjudged upon the former Iudgment, and all Costs and Damages to be also awarded for the same delaying of Execution, which Law hath beén found by experience to be very good and beneficial to the Commonwealth. And forasmuch as divers other Causes wherein the same Mischief by Delays and Staying of Execution by Writts of Errour and <hi>Supersedeas</hi> thereupon are not Provided for by the Statute in the several Actions hereafter Specified.</p>
+            <p>Be it further Enacted, That the said Recited Act be of Force in this Kingdom. And be it further Enacted and Ordained, by the Authori<g ref="char:EOLhyphen"/>ty aforesaid, That from and after the Twen<g ref="char:EOLhyphen"/>tieth Day of <hi>December</hi> next no Execution shall be Stayed in any of His Majesties Four Courts, or in the County Palatine of <hi>Tipperary,</hi> by any Writt or Writts of Error or <hi>Supersedeas</hi> thereupon, after any Verdict and Iudgment thereupon obtain<g ref="char:EOLhyphen"/>ed in any Action of Debt, or in any Action upon the Case, upon any Promise for the payment of Money, Actions <hi>Sur Trover,</hi> Actions of Covenant, <hi>Detinue</hi> and Trespass, unless such Recognizance, and in such manner as by the said Recited for<g ref="char:EOLhyphen"/>mer Act is Directed, shall be first Acknowledged in the said Court where such Iudgment is gi<g ref="char:EOLhyphen"/>ven.</p>
+            <p>And be it also Enacted by the Authority a<g ref="char:EOLhyphen"/>foresaid, That if any Person or Persons after the said Day shall Sue or Prosecute any Writt or Writts of Error for the Reversal of any Iudgment whatsoever given after any Verdict in
+<pb n="12" facs="tcp:207793:7"/> any the Courts aforesaid; and the said Iudg<g ref="char:EOLhyphen"/>ment shall afterwards be Affirmed, then Every such Person or Persons shall Pay unto the De<g ref="char:EOLhyphen"/>fendant or Defendants in the said Writt or Writts of Error, his or their Double Costs, to be Assessed by the Court where such Writt of Error shall be Depending, for the Delaying of Execution.</p>
+            <p>Provided Nevertheless that this Act, nor any Thing therein Contained, shall not Extend to any Action Popular, nor unto any other Action which is, or hereafter shall be brought upon any Penal Law, or Statute, nor to any Indictment, Presentment, Inquisition, Information or Ap<g ref="char:EOLhyphen"/>peal, any thing herein before Expressed to the Contrary thereof Notwithstanding.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207793:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
